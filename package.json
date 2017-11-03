@@ -1,0 +1,20 @@
+{
+  "name": "sassy-node",
+  "version": "1.0.0",
+  "description": "Using SASS in a node project, for fun and profit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emmadema/sassy-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emmadema/sassy-node/issues"
+  },
+  "homepage": "https://github.com/emmadema/sassy-node#readme"
+}
