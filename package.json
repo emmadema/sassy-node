@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/emmadema/sassy-node/issues"
   },
-  "homepage": "https://github.com/emmadema/sassy-node#readme"
+  "homepage": "https://github.com/emmadema/sassy-node#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
 }
