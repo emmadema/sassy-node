@@ -362,7 +362,7 @@ Now whenever we save `main.scss`, we'll also be importing `_card.scss` into the 
 
 ### Extending/Inheritance
 
-Sometimes, our classs will be so similar, that we'll want to use most (if not all) of their existing styles. With Sass, we can simply `extend` our classes by mentioning them in another class:
+Sometimes, our classes will be so similar, that we'll want to use most (if not all) of their existing styles. With Sass, we can simply `extend` our classes by mentioning them in another class:
 
 ```CSS
     .message {
